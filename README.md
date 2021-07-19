@@ -21,6 +21,7 @@
 * Java 
   * java fx
 * JavaScript ( ECMAScript )
+  * greensock
   * jQuery
   * node.js
     * Electron 
@@ -52,7 +53,6 @@
   * chakra
   * semantic ui
   * element ui
-  * semantic-ui
   * rsuite
 
 * CMS
