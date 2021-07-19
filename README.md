@@ -1,6 +1,11 @@
 # oneabxvb3all
 ## Full Stack Developer
 
+* IDE
+ * VScode
+   * theme : custom
+   * font  :  [Operator Mono](https://www.typography.com/fonts/operator/styles)
+
 # skils
 * swift
 * c#
