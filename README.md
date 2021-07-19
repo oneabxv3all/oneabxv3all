@@ -24,6 +24,7 @@
   * greensock
   * jQuery
   * node.js
+    * yarn
     * discord.js
     * express.js
     * mongoose
@@ -44,6 +45,7 @@
   * deno
 
 * php 
+  * Composer  
   * laravel
     * livewire
     * jetstream
