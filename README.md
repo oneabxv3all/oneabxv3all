@@ -35,6 +35,12 @@
       * Vue Router
     * typescript   
       * Angular 
+    * ssr 
+      * next.js
+      * nuxt.js
+    * ssg 
+      * gatsby.js
+
   * deno
 
 * php 
