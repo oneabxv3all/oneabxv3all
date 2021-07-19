@@ -63,11 +63,12 @@
 
 * ui 
   * bootstrap 
-  * chakra
+  * chakra ui
   * semantic ui
   * element ui
   * rsuite
-
+  * Material ui
+  * 
 * CMS
   * wordpress
   * Strapi
