@@ -46,7 +46,7 @@
   * mysql/mariaDB
   * MongoDB
   * redis 
-  * sqllite
+  * SQLite
 
 * ui 
   * bootstrap 
