@@ -1,16 +1,69 @@
-### Hi there 👋
+# oneabxvb3all
+## Full Stack Developer
 
-<!--
-**oneabxv3all/oneabxv3all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# skils
+* swift
+* c#
+* c/c++
+* golang
+* Lua
+* Ruby
+* html (ejs , pug)
+* git
+* ssh
+* webpack
+* python 
+  * numpy
+* css
+  * sass
+  * less 
+  * tailwindcss
+* Java 
+  * java fx
+* JavaScript ( ECMAScript )
+  * jQuery
+  * node.js
+    * Electron 
+    * React
+      * React Native
+    * Vue
+    * Vue Router
+    * typescript   
+      * Angular 
+  * deno
 
-Here are some ideas to get you started:
+* php 
+  * laravel
+    * livewire
+    * jetstream
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* api
+  * GraphQL
+  * REST
+
+* databases
+  * mysql/mariaDB
+  * MongoDB
+  * redis 
+  * sqllite
+
+* ui 
+  * bootstrap 
+  * chakra
+  * semantic ui
+  * element ui
+  * semantic-ui
+  * rsuite
+
+* CMS
+  * wordpress
+  * Strapi
+
+* unit test
+  * Mocha
+  * Chai
+
+* os
+  * macOS
+  * windows
+  * linux
