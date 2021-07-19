@@ -29,6 +29,10 @@
   * greensock
   * jQuery
   * node.js
+    * discord.js
+    * express.js
+    * mongoose
+    * Passport.js
     * Electron 
     * React
       * React Native
@@ -44,6 +48,7 @@
     * jetstream
 
 * api
+  * JSON Web Token
   * GraphQL
   * REST
 
